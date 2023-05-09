@@ -1,6 +1,6 @@
 # Credit_Risk_Classification
 
-# Senopsis 
+# Synopsis
 Utilized various techniques to train and evaluate a model based on loan risk to identify the credit-worthiness of borrowers. 
 
 # Logic Regression Model with the Orginal Data
