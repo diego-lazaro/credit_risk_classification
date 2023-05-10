@@ -15,7 +15,6 @@ Utilized machine learning to train and evaluate a model based on loan risk to id
  
  
  # Results
- # Logic Regression Model with the Orginal Data
  * Accuracy Score: Determine how close a measurement is to the true value
  * Precision Score: Determine how extact the machine learning model can reproducible a measurement
  * Recall Score: The ability of the classifier to find all the positive samples
@@ -30,7 +29,7 @@ Utilized machine learning to train and evaluate a model based on loan risk to id
 
 # Logic Regression Model with the Oversampled Data
 
-<img width="338" alt="image" src="https://user-images.githubusercontent.com/115186079/236994734-1792b499-0463-41d1-b9b6-6b3129ea948d.png">
+![Screenshot 2023-05-08 213303](https://github.com/diego-lazaro/credit_risk_classification/assets/115186079/3f3d54b9-678c-4f41-b2e0-30f67b3d6b94)
 
 
 
