@@ -15,9 +15,9 @@ Utilized machine learning to train and evaluate a model based on loan risk to id
  
  
  # Results
- * Accuracy Score: Determine how close a measurement is to the true value
- * Precision Score: Determine how extact the machine learning model can reproducible a measurement
- * Recall Score: The ability of the classifier to find all the positive samples
+ * Accuracy Score: Determine how close a measurement is to the true value.
+ * Precision Score: Determine how extact a measurement is reproducible.
+ * Recall Score: The ability of the classifier to find all the positive samples.
  
  # Summary
 * The LogicRegression model with oversampled data performed better than the orginal data because it had a better accuracy. The precision for the high-risk loans on the oversampled data was 99% compared to the orginal data at 85%.
