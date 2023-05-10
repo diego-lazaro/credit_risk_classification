@@ -21,7 +21,7 @@ Utilized machine learning to train and evaluate a model based on loan risk to id
  
  # Summary
 * The LogicRegression model with oversampled data performed better than the orginal data because it had a better accuracy. The precision for the high-risk loans on the oversampled data was 99% compared to the orginal data at 85%.
-* It is better to predict the high-risk loans to determine the likelihood of a financial institutes getting the money back from the borrow.
+* It is better to predict the high-risk loans to determine the likelihood a financial institutes gets their money back from the borrow.
  
 # Logic Regression Model with the Orginal Data
 
